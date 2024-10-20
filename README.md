@@ -55,4 +55,5 @@ Make sure you have the following installed:
 ### Basic Functionality
 1. there is no initial data for Auctions so once you add auction after login then only you can see the Auction to perform.
 2. To see the history of bidding you have to click on bidding image.
-3.  To perform update or delete functionality you have to go to /myAuctions.
+3. To perform update or delete functionality you have to go to /myAuctions.
+4. rest is on normal flow.
